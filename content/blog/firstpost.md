@@ -1,26 +1,18 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: cTHUDH is this thing on
+description: an exercise in seeking balance
+date: 2023-09-12
 tags:
-  - another tag
+  - steelman
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I know nothing. It's trite and I don't actually believe that, but I try to remind myself this as often as possible. Why? It's not an act of humility. It's a constant reminder of what I consider to be a ground truth. Too often in my life I've forgotten that and been hencewith humbled. My **ironclad** argument fell apart like a wet sand castle in the face of a particularly pertinent new fact. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+And so what? Eli makes bad arguments. Those of you who know me in real life didn't need my help figuring that out. The problem is that it gets worse. After making a particularly (in hindsight) weak argument, I returned home, head in hands, vowing to be better prepared. I spent hours utilizing years of inhabiting digital spaces searching the nooks and crannies of the internet to get a gestalt sense of the topic, making sure I was aware of _all_ the pertinent angles. 
 
-## Section Header
+A few hours in, I realize there's no way I'm going to be able to understand enough nuance to have even a _half-way_  slightly decent-if-you-squint-your-eyes-and-look-sideways chance of speaking authoritatively on the topic. And yet I'd been vehemently laying down opinions on the topic for years like my opinion was going to make a difference. 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+And so what? This is not particularly new psychic territory for humanity, and the stage of idiots has rooms for many others. So, I have a vague idea based on a concept I find rather neat: steelmanning. For those unfamiliar, you essentially try to argue with the best form of the argument you're actually arguing against. If you can beat the best form of their argument then certainly yours is superior. This is not necessarily a perfect tool, but I never claimed perfection.
 
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
+I want to use this space to throw thoughts, in general. All of the above is just one theme I want to explore. We'll see how far this site gets before I decide to rebuild something new. 
 
- // Test with a line break above this line.
- console.log('Test');
-```
+- Mr. E 

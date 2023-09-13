@@ -6,16 +6,16 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #f0d8d8;
-	--color-gray-50: #d5d680;
-	--color-gray-90: #0b151b;
+	--color-gray-20: #A5A5A4;
+	--color-gray-50: #555655;
+	--color-gray-90: #798B82;
 
-	--background-color: #97c8a4;
+	--background-color: #D1D1D1;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link: #D1D1D1;
+	--text-color-link-active: #7C7686;
+	--text-color-link-visited: #C5B1AB;
 
 	--syntax-tab-size: 2;
 }
@@ -24,14 +24,14 @@
 	:root {
 		--color-gray-20: #89d68f;
 		--color-gray-50: #c7a9c3;
-		--color-gray-90: #225518;
+		--color-gray-90: #798B82;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: #D1D1D1;
+		--text-color-link-active: #7C7686;
+		--text-color-link-visited: #C5B1AB;
 
-		--background-color: #15202b;
+		--background-color: #D1D1D1;
 	}
 }
 
@@ -53,7 +53,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 80vw;
+	max-width: 90vw;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */

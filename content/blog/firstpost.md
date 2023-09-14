@@ -2,6 +2,8 @@
 title: cTHUDH is this thing on
 description: an exercise in seeking balance
 date: 2023-09-12
+created: 2023-09-12
+updated: 2023-09-12
 tags:
   - steelman
 ---

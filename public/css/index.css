@@ -6,32 +6,32 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #A5A5A4;
-	--color-gray-50: #555655;
-	--color-gray-90: #798B82;
+	--color-gray-20: #96C291;
+	--color-gray-50: #588a52;
+	--color-gray-90: #31672b;
 
-	--background-color: #D1D1D1;
+	--background-color: #FFDBAA;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #D1D1D1;
-	--text-color-link-active: #7C7686;
-	--text-color-link-visited: #C5B1AB;
+	--text-color-link: #FFDBAA;
+	--text-color-link-active: #FFB7B7;
+	--text-color-link-visited: #598155;
 
 	--syntax-tab-size: 2;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-gray-20: #89d68f;
-		--color-gray-50: #c7a9c3;
-		--color-gray-90: #798B82;
+		--color-gray-20: #84A7A1;
+		--color-gray-50: #516763;
+		--color-gray-90: #2a3533;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #D1D1D1;
-		--text-color-link-active: #7C7686;
-		--text-color-link-visited: #C5B1AB;
+		--text-color-link: #2E8A99;
+		--text-color-link-active: #77d0de;
+		--text-color-link-visited: #84A7A1;
 
-		--background-color: #D1D1D1;
+		--background-color: #0E2954;
 	}
 }
 
